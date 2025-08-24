@@ -426,3 +426,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Visual Studio C++ project files (optional ignore)
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
