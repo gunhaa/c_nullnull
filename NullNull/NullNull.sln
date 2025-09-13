@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17_function2", "17_function
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "18_struct", "18_struct\18_struct.vcxproj", "{8B4274A1-85AE-4820-98EC-FF8094E33660}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19_file", "19_file\19_file.vcxproj", "{07F580B5-B5B8-4D03-A739-327142BA6978}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{8B4274A1-85AE-4820-98EC-FF8094E33660}.Release|x64.Build.0 = Release|x64
 		{8B4274A1-85AE-4820-98EC-FF8094E33660}.Release|x86.ActiveCfg = Release|Win32
 		{8B4274A1-85AE-4820-98EC-FF8094E33660}.Release|x86.Build.0 = Release|Win32
+		{07F580B5-B5B8-4D03-A739-327142BA6978}.Debug|x64.ActiveCfg = Debug|x64
+		{07F580B5-B5B8-4D03-A739-327142BA6978}.Debug|x64.Build.0 = Debug|x64
+		{07F580B5-B5B8-4D03-A739-327142BA6978}.Debug|x86.ActiveCfg = Debug|Win32
+		{07F580B5-B5B8-4D03-A739-327142BA6978}.Debug|x86.Build.0 = Debug|Win32
+		{07F580B5-B5B8-4D03-A739-327142BA6978}.Release|x64.ActiveCfg = Release|x64
+		{07F580B5-B5B8-4D03-A739-327142BA6978}.Release|x64.Build.0 = Release|x64
+		{07F580B5-B5B8-4D03-A739-327142BA6978}.Release|x86.ActiveCfg = Release|Win32
+		{07F580B5-B5B8-4D03-A739-327142BA6978}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
